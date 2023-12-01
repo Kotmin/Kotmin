@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Kotmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotmin)](https://github.com/anuraghazra/github-readme-stats)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Kotmin&layout=compact&type=donut&theme=dracula)](https://github.com/KasRoudra/github-stats-card)
 

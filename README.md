@@ -12,8 +12,8 @@ Greetings! I'm Paweł, a Python Developer passionate about development and AI im
 ### Languages and Tools
 
 
-<div class="container" style="display:flex; flex-direction:column;align-items:center;justify-content:center;height:100svh;">
-  <div class="category">
+<div style="text-align: center;" align="center">
+  <div style="text-align: center;">
     <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
     <img alt="PostgresSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
@@ -21,14 +21,14 @@ Greetings! I'm Paweł, a Python Developer passionate about development and AI im
     <img alt="RedHat OS/CentOS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg"/>
   </div>
 
-  <div class="category" style="text-align: center;">
-    <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <div style="text-align: center;" align="center">
+    <img alt="HTML5" style="text-align: center;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img alt="CSS3" style="text-align: center;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img alt="javascript" style="text-align: center;" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </div>
 
   
-  <div class="category">
+  <div class="category" style="text-align: center;>
     <img alt="Godot"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg"/>
     <img alt="Java"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
     <img alt="git"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>

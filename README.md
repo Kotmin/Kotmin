@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000000&color=8E02DE&center=true&random=false&width=435&lines=Pawe%C5%82+T%C5%82usty)](https://git.io/typing-svg)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E02DE&center=true&random=false&width=435&lines=Software+Developer;A+spirit+of+analysis;4%2B+years+of+coding+experience;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=8E02DE&center=true&random=false&width=435&lines=Software+Developer;A+spirit+of+analysis;4%2B+years+of+coding+experience;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
 </div>
 
 Greetings! I'm Paweł, a Python Developer passionate about development and AI implementations. I specialize in crafting web applications using Python frameworks like Flask, FastAPI, and Django. While I'm versatile, my heart lies in backend development. I usually go for PostgresSQL in terms of database implementation, but, of course, only if it aligns with the project's needs. By the way, I teach and share knowledge both in person and through my YouTube channel "[Groovy Tech Cat][youtube]" . I excel at finding software bugs and paying meticulous attention to details.

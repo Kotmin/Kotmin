@@ -42,6 +42,11 @@ Greetings! I'm Paweł, a Python Developer passionate about development and AI im
 
 </div>
 
+---
+
+
+
+
 
 
 [youtube]: https://www.youtube.com/@groovytechcat

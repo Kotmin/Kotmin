@@ -44,7 +44,7 @@ Greetings! I'm Paweł, a Python Developer passionate about development and AI im
 
 
 
-[youtube]: https://youtube.com/groovytechcat
+[youtube]: https://www.youtube.com/@groovytechcat
 
 <!--
 **Kotmin/Kotmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,14 +2,11 @@
 
 **`Code Chef (Developer/Creator/Scientist)`**
 
-### Hi there 👋
-
-
 Greetings! I'm Paweł, a Python Developer passionate about development and AI implementations. I specialize in crafting web applications using Python frameworks like Flask, FastAPI, and Django. While I'm versatile, my heart lies in backend development. I usually go for PostgresSQL in terms of database implementation, but, of course, only if it aligns with the project's needs. By the way, I teach and share knowledge both in person and through my YouTube channel "[Groovy Tech Cat][youtube]" . I excel at finding software bugs and paying meticulous attention to details.
 
 ---
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 
 <div style="text-align: center;" align="center">

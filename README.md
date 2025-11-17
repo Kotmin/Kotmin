@@ -66,3 +66,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->

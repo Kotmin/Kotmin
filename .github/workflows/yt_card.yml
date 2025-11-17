@@ -1,17 +1,36 @@
 name: GitHub Readme YouTube Cards
+
 on:
   schedule:
     # Runs every Tuesday, at 7:45PM
     - cron: '45 19 * * 2'
-  workflow_dispatch:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update YouTube cards in README
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: ${{ secrets.CHANNEL_ID }}
           comment_tag_name: YOUTUBE-CARDS
+          readme_path: README.md
+
+          # If this secret is not defined, GitHub will pass an empty string.
+          # The action treats youtube_api_key as optional.
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+
+          # Example of an option that requires API key
           show_duration: true
+
+          author_name: GitHub Actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_message: "docs(readme): update YouTube cards"

@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  update-youtube-cards:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,11 +24,11 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           readme_path: README.md
 
-          # If this secret is not defined, GitHub will pass an empty string.
-          # The action treats youtube_api_key as optional.
+          # Optional API key – for advanced features
+          # Make sure this secret is a *valid* YouTube Data API v3 key
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
 
-          # Example of an option that requires API key
+          # Only turn this on if the API key is valid
           show_duration: true
 
           author_name: GitHub Actions
